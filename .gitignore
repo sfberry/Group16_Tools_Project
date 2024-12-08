@@ -1,0 +1,11 @@
+*.db
+*.parquet
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.xml
+*.html
+*.csv
