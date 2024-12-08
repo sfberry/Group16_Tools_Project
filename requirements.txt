@@ -10,3 +10,4 @@ math
 pyarrow
 numpy
 sqlite3
+folium
