@@ -16,7 +16,6 @@ This repository consists of the following:
 - Source code --> our final project code submission
 - .gitignore --> files to ignore
 - queries --> SQL code for our queries
-- code explanation --> extra documentation about what our code does
 
 ## University IDs:
 UNIs: [sf3269, yo2315]
