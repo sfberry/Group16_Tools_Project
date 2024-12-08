@@ -1,0 +1,12 @@
+os
+beautifulsoup4
+matplotlib
+pandas
+requests
+sqlalchemy
+geopandas
+re
+math
+pyarrow
+numpy
+sqlite3
