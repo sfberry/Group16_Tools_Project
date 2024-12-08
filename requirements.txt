@@ -11,3 +11,4 @@ pyarrow
 numpy
 sqlite3
 folium
+scipy
